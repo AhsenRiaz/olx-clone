@@ -1,0 +1,46 @@
+{
+    "Huawei P20 pro 6*128 gb 41000": {
+        "seller": "Muhammad Zubair",
+        "date":"25 Sep",
+        "footer": "Huawei P20 Pro",
+        "id": 1,
+        "brand": "Huawei",
+        "category": "Phone",
+        "price": "Rs 40,000",
+        "name": "Huawei P20 Pro ",
+        "image": "https://apollo-singapore.akamaized.net/v1/files/u501ashm3xcl2-PK/image;s=300x600;q=60"
+    },
+    "Toyota Carolla Gli 2017": {
+        "Seller": "Khalid Khan",
+        "date":"12 Sep",
+        "footer": "Toyoro Corolla Gli ",
+        "id": 2,
+        "brand": "Totota",
+        "category": "Car",
+        "price": "Rs 280,0000",
+        "name": "Toyota Carolla Gli 2017 ",
+        "image": "https://apollo-singapore.akamaized.net/v1/files/nzko28vuw2tt2-PK/image;s=300x600;q=60"
+    },
+    "DHA Peshawar 1 Kanal South Open": {
+        "seller": "Amjad Ali",
+        "date":"03 Oct",
+        "footer": "DHA Peshawar 1 Kanal",
+        "id": 3,
+        "brand": "Amjad real state",
+        "category": "Plot",
+        "price": "Rs 170,00000",
+        "name": "DHA Peshawar 1 Kanal South Open",
+        "image": "https://apollo-singapore.akamaized.net/v1/files/mxe6sdyh4du32-PK/image;s=300x600;q=60"
+    },
+    "Toyota Land Cruiser 2017": {
+        "seller": "Saad Rashid",
+        "date":"15 Aug",
+        "footer": "Toyota Land Cruiser",
+        "id": 4,
+        "brand": "Toyota",
+        "category": "Car",
+        "price": "Rs 150,00000",
+        "name": "Toyota Land Cruiser 2017",
+        "image": "https://apollo-singapore.akamaized.net/v1/files/vogpiaiibkhc1-PK/image;s=300x600;q=60"
+    }
+}
